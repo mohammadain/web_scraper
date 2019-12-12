@@ -1,5 +1,4 @@
-# How to run the scripts
-==============================
+# How to run the web scraper script
 
 1. Install all project dependencies mentioned in Requirements.txt
 2. **cd** to project directory
@@ -7,7 +6,6 @@
 4. **source bin/activate**
 
 ## For script scrap.py
-==============================
 
 Run following command
 - **python scrap.py**
